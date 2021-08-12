@@ -1,2 +1,2 @@
 # LaravelDemo
-LarvelDemo Sample Web PHP Application
+LaravelDemo Sample Web PHP Application
