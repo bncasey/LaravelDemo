@@ -39,7 +39,7 @@
 		<div>
                 <h1> </h1>
               <body>
-                <p> let me tell you about me </p>
+                <p> Now - let me tell you about me!!!! </p>
               </div>
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
